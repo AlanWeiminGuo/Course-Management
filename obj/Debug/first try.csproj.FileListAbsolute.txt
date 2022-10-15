@@ -1,0 +1,80 @@
+F:\VS作业\first try\bin\Debug\first try.exe
+F:\VS作业\first try\bin\Debug\first try.pdb
+F:\VS作业\first try\obj\Debug\first try.csprojAssemblyReference.cache
+F:\VS作业\first try\obj\Debug\first_try.Properties.Resources.resources
+F:\VS作业\first try\obj\Debug\first try.csproj.GenerateResource.cache
+F:\VS作业\first try\obj\Debug\first try.exe
+F:\VS作业\first try\obj\Debug\first try.pdb
+F:\VS作业\first try\obj\Debug\first_try.login.resources
+F:\VS作业\first try\obj\Debug\first_try.Main.resources
+F:\VS作业\First Try\obj\Debug\first_try.添加学生信息.resources
+F:\VS作业\First Try\obj\Debug\first_try.添加学生缺勤记录.resources
+F:\VS作业\First Try\obj\Debug\first_try.查询学生信息.resources
+F:\VS作业\First Try\obj\Debug\first_try.查询缺勤记录.resources
+D:\360Downloads\Software\Tencent\QQ\1931678580\FileRecv\first try (1)\first try\bin\Debug\first try.exe
+D:\360Downloads\Software\Tencent\QQ\1931678580\FileRecv\first try (1)\first try\bin\Debug\first try.pdb
+D:\360Downloads\Software\Tencent\QQ\1931678580\FileRecv\first try (1)\first try\obj\Debug\first try.csprojAssemblyReference.cache
+D:\360Downloads\Software\Tencent\QQ\1931678580\FileRecv\first try (1)\first try\obj\Debug\first_try.login.resources
+D:\360Downloads\Software\Tencent\QQ\1931678580\FileRecv\first try (1)\first try\obj\Debug\first_try.Main.resources
+D:\360Downloads\Software\Tencent\QQ\1931678580\FileRecv\first try (1)\first try\obj\Debug\first_try.Properties.Resources.resources
+D:\360Downloads\Software\Tencent\QQ\1931678580\FileRecv\first try (1)\first try\obj\Debug\first_try.register.resources
+D:\360Downloads\Software\Tencent\QQ\1931678580\FileRecv\first try (1)\first try\obj\Debug\first_try.查询学生信息.resources
+D:\360Downloads\Software\Tencent\QQ\1931678580\FileRecv\first try (1)\first try\obj\Debug\first_try.查询缺勤记录.resources
+D:\360Downloads\Software\Tencent\QQ\1931678580\FileRecv\first try (1)\first try\obj\Debug\first_try.添加学生信息.resources
+D:\360Downloads\Software\Tencent\QQ\1931678580\FileRecv\first try (1)\first try\obj\Debug\first_try.添加学生缺勤记录.resources
+D:\360Downloads\Software\Tencent\QQ\1931678580\FileRecv\first try (1)\first try\obj\Debug\first try.csproj.GenerateResource.cache
+D:\360Downloads\Software\Tencent\QQ\1931678580\FileRecv\first try (1)\first try\obj\Debug\first try.csproj.CoreCompileInputs.cache
+D:\360Downloads\Software\Tencent\QQ\1931678580\FileRecv\first try (1)\first try\obj\Debug\first try.exe
+D:\360Downloads\Software\Tencent\QQ\1931678580\FileRecv\first try (1)\first try\obj\Debug\first try.pdb
+C:\Users\蒋智泓\Desktop\first try\obj\Debug\first try.csprojAssemblyReference.cache
+C:\Users\蒋智泓\Desktop\first try\obj\Debug\first_try.login.resources
+C:\Users\蒋智泓\Desktop\first try\obj\Debug\first_try.Main.resources
+C:\Users\蒋智泓\Desktop\first try\obj\Debug\first_try.Properties.Resources.resources
+C:\Users\蒋智泓\Desktop\first try\obj\Debug\first_try.register.resources
+C:\Users\蒋智泓\Desktop\first try\obj\Debug\first_try.查询学生信息.resources
+C:\Users\蒋智泓\Desktop\first try\obj\Debug\first_try.查询缺勤记录.resources
+C:\Users\蒋智泓\Desktop\first try\obj\Debug\first_try.添加学生信息.resources
+C:\Users\蒋智泓\Desktop\first try\obj\Debug\first_try.添加学生缺勤记录.resources
+C:\Users\蒋智泓\Desktop\first try\obj\Debug\first try.csproj.GenerateResource.cache
+C:\Users\蒋智泓\Desktop\first try\obj\Debug\first try.csproj.CoreCompileInputs.cache
+C:\Users\蒋智泓\Desktop\first try\obj\Debug\first try.exe
+C:\Users\蒋智泓\Desktop\first try\obj\Debug\first try.pdb
+C:\Users\蒋智泓\Desktop\first try\bin\Debug\first try.exe
+C:\Users\蒋智泓\Desktop\first try\bin\Debug\first try.pdb
+F:\VS作业\First Try\obj\Debug\first_try.显示学生信息.resources
+F:\VS作业\First Try\obj\Debug\first_try.删除学生信息.resources
+F:\VS作业\First Try\obj\Debug\first_try.修改学生记录.resources
+F:\作业\课程设计 大二上\程序设计课设\郭玮旻\郭玮旻\bin\Debug\first try.exe
+F:\作业\课程设计 大二上\程序设计课设\郭玮旻\郭玮旻\bin\Debug\first try.pdb
+F:\作业\课程设计 大二上\程序设计课设\郭玮旻\郭玮旻\obj\Debug\first try.csprojAssemblyReference.cache
+F:\作业\课程设计 大二上\程序设计课设\郭玮旻\郭玮旻\obj\Debug\first_try.login.resources
+F:\作业\课程设计 大二上\程序设计课设\郭玮旻\郭玮旻\obj\Debug\first_try.Main.resources
+F:\作业\课程设计 大二上\程序设计课设\郭玮旻\郭玮旻\obj\Debug\first_try.Properties.Resources.resources
+F:\作业\课程设计 大二上\程序设计课设\郭玮旻\郭玮旻\obj\Debug\first_try.修改学生记录.resources
+F:\作业\课程设计 大二上\程序设计课设\郭玮旻\郭玮旻\obj\Debug\first_try.删除学生信息.resources
+F:\作业\课程设计 大二上\程序设计课设\郭玮旻\郭玮旻\obj\Debug\first_try.显示学生信息.resources
+F:\作业\课程设计 大二上\程序设计课设\郭玮旻\郭玮旻\obj\Debug\first_try.查询学生信息.resources
+F:\作业\课程设计 大二上\程序设计课设\郭玮旻\郭玮旻\obj\Debug\first_try.查询缺勤记录.resources
+F:\作业\课程设计 大二上\程序设计课设\郭玮旻\郭玮旻\obj\Debug\first_try.添加学生信息.resources
+F:\作业\课程设计 大二上\程序设计课设\郭玮旻\郭玮旻\obj\Debug\first_try.添加学生缺勤记录.resources
+F:\作业\课程设计 大二上\程序设计课设\郭玮旻\郭玮旻\obj\Debug\first try.csproj.GenerateResource.cache
+F:\作业\课程设计 大二上\程序设计课设\郭玮旻\郭玮旻\obj\Debug\first try.csproj.CoreCompileInputs.cache
+F:\作业\课程设计 大二上\程序设计课设\郭玮旻\郭玮旻\obj\Debug\first try.exe
+F:\作业\课程设计 大二上\程序设计课设\郭玮旻\郭玮旻\obj\Debug\first try.pdb
+G:\作业\课程设计 大二上\程序设计课设\郭玮旻\郭玮旻\bin\Debug\first try.exe
+G:\作业\课程设计 大二上\程序设计课设\郭玮旻\郭玮旻\bin\Debug\first try.pdb
+G:\作业\课程设计 大二上\程序设计课设\郭玮旻\郭玮旻\obj\Debug\first try.csprojAssemblyReference.cache
+G:\作业\课程设计 大二上\程序设计课设\郭玮旻\郭玮旻\obj\Debug\first_try.login.resources
+G:\作业\课程设计 大二上\程序设计课设\郭玮旻\郭玮旻\obj\Debug\first_try.Main.resources
+G:\作业\课程设计 大二上\程序设计课设\郭玮旻\郭玮旻\obj\Debug\first_try.Properties.Resources.resources
+G:\作业\课程设计 大二上\程序设计课设\郭玮旻\郭玮旻\obj\Debug\first_try.修改学生记录.resources
+G:\作业\课程设计 大二上\程序设计课设\郭玮旻\郭玮旻\obj\Debug\first_try.删除学生信息.resources
+G:\作业\课程设计 大二上\程序设计课设\郭玮旻\郭玮旻\obj\Debug\first_try.显示学生信息.resources
+G:\作业\课程设计 大二上\程序设计课设\郭玮旻\郭玮旻\obj\Debug\first_try.查询学生信息.resources
+G:\作业\课程设计 大二上\程序设计课设\郭玮旻\郭玮旻\obj\Debug\first_try.查询缺勤记录.resources
+G:\作业\课程设计 大二上\程序设计课设\郭玮旻\郭玮旻\obj\Debug\first_try.添加学生信息.resources
+G:\作业\课程设计 大二上\程序设计课设\郭玮旻\郭玮旻\obj\Debug\first_try.添加学生缺勤记录.resources
+G:\作业\课程设计 大二上\程序设计课设\郭玮旻\郭玮旻\obj\Debug\first try.csproj.GenerateResource.cache
+G:\作业\课程设计 大二上\程序设计课设\郭玮旻\郭玮旻\obj\Debug\first try.csproj.CoreCompileInputs.cache
+G:\作业\课程设计 大二上\程序设计课设\郭玮旻\郭玮旻\obj\Debug\first try.exe
+G:\作业\课程设计 大二上\程序设计课设\郭玮旻\郭玮旻\obj\Debug\first try.pdb
